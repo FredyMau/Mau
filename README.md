@@ -8,6 +8,7 @@
 ##   Sobre mí
 
 Soy estudiante de Desarrollo de Software (DSW) con interés en el diseño, desarrollo y mejora de soluciones tecnológicas que aporten valor a las personas y organizaciones.
+
 Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases de datos, análisis de sistemas, diseño de interfaces y gestión de proyectos tecnológicos.
 
 > 💡 *"El éxito no es la clave de la felicidad; la constancia es la clave del éxito."*
