@@ -24,11 +24,11 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases d
 ---
 
 
-##   Actualmente
+##  📚 Actualmente
 
-* 🎓 Estudiando Desarrollo de Software.
-* 📖 Aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
-* 🔨 Trabajando en proyectos académicos y personales para fortalecer mi experiencia.
+*  Estudiando Desarrollo de Software.
+*  Aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
+*  Trabajando en proyectos académicos y personales para fortalecer mi experiencia.
 
 ---
 
@@ -38,13 +38,13 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases d
 
 Proyecto sencillo enfocado en el diseño y prototipado de una interfaz moderna de un negocio de letes utilizando Figma.
 
-🔗 **Ver proyecto:** [https://www.figma.com/design/JazgKuErLAJQHkQl8yDVxY/Untitled?node-id=0-1&t=HgXglvfeqxxVQ5dd-1]
+🔗 **Ver proyecto:** https://www.figma.com/design/JazgKuErLAJQHkQl8yDVxY/Untitled?node-id=0-1&t=HgXglvfeqxxVQ5dd-1
 
 ---
 
 <div align="center">
 
-### Gracias por visitar mi perfil ⭐
+### Gracias por visitar mi perfil ✨
 
 Siempre estoy dispuesto a aprender, mejorar y colaborar en nuevos proyectos.
 
