@@ -36,7 +36,7 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, bases d
 
 ### 🎨 Diseño de Interfaz en Figma
 
-Proyecto enfocado en el diseño y prototipado de una interfaz moderna utilizando Figma, aplicando principios de experiencia de usuario (UX) y diseño de interfaces (UI).
+Proyecto sencillo enfocado en el diseño y prototipado de una interfaz moderna de un negocio de letes utilizando Figma.
 
 🔗 **Ver proyecto:** [https://www.figma.com/design/JazgKuErLAJQHkQl8yDVxY/Untitled?node-id=0-1&t=HgXglvfeqxxVQ5dd-1]
 
